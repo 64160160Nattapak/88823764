@@ -1,0 +1,5 @@
+# docker - compor.yml
+
+services:
+    web:
+        image:
